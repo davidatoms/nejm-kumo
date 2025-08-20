@@ -1,0 +1,17 @@
+NEURAL-PHONEME BCI ANALYSIS SUMMARY
+==================================================
+Generated: 2025-08-20 20:54:01
+
+DATASET OVERVIEW:
+  Neural Events: 25,123
+  Phoneme Annotations: 46,276
+  Causal Relationships: 5,009,609
+  Unique Channels: 41
+  Unique Phonemes: 40
+  Sparsity: 0.43%
+
+KEY STATISTICS:
+  Average Causal Delay: 276.3 ± 129.1 ms
+  Most Active Channel: 17
+  Most Common Phoneme: SIL
+  Peak Relationship Strength: 0.952

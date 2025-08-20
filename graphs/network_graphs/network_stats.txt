@@ -1,0 +1,7 @@
+Network Statistics (Sample of 1000 relationships):
+Nodes: 81
+Edges: 588
+Average degree: 14.52
+Network density: 0.1815
+Average path length: 2.21
+Diameter: 4
